@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		1D85E8792AF942560084AE89 /* UIKitHapticsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D85E8782AF942560084AE89 /* UIKitHapticsView.swift */; };
 		1DDC46472AF9400200BA2E4F /* CoreHapticssApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1DDC46462AF9400200BA2E4F /* CoreHapticssApp.swift */; };
 		1DDC46492AF9400200BA2E4F /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1DDC46482AF9400200BA2E4F /* HomeView.swift */; };
 		1DDC464B2AF9400300BA2E4F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1DDC464A2AF9400300BA2E4F /* Assets.xcassets */; };
@@ -14,6 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		1D85E8782AF942560084AE89 /* UIKitHapticsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIKitHapticsView.swift; sourceTree = "<group>"; };
 		1DDC46432AF9400200BA2E4F /* CoreHapticss.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CoreHapticss.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		1DDC46462AF9400200BA2E4F /* CoreHapticssApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoreHapticssApp.swift; sourceTree = "<group>"; };
 		1DDC46482AF9400200BA2E4F /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
@@ -53,6 +55,7 @@
 			children = (
 				1DDC46462AF9400200BA2E4F /* CoreHapticssApp.swift */,
 				1DDC46482AF9400200BA2E4F /* HomeView.swift */,
+				1D85E8782AF942560084AE89 /* UIKitHapticsView.swift */,
 				1DDC464A2AF9400300BA2E4F /* Assets.xcassets */,
 				1DDC464C2AF9400300BA2E4F /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1D85E8792AF942560084AE89 /* UIKitHapticsView.swift in Sources */,
 				1DDC46492AF9400200BA2E4F /* HomeView.swift in Sources */,
 				1DDC46472AF9400200BA2E4F /* CoreHapticssApp.swift in Sources */,
 			);
