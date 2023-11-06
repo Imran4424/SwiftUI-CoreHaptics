@@ -8,7 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		1DDC46472AF9400200BA2E4F /* CoreHapticssApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1DDC46462AF9400200BA2E4F /* CoreHapticssApp.swift */; };
-		1DDC46492AF9400200BA2E4F /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1DDC46482AF9400200BA2E4F /* ContentView.swift */; };
+		1DDC46492AF9400200BA2E4F /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1DDC46482AF9400200BA2E4F /* HomeView.swift */; };
 		1DDC464B2AF9400300BA2E4F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1DDC464A2AF9400300BA2E4F /* Assets.xcassets */; };
 		1DDC464E2AF9400300BA2E4F /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1DDC464D2AF9400300BA2E4F /* Preview Assets.xcassets */; };
 /* End PBXBuildFile section */
@@ -16,7 +16,7 @@
 /* Begin PBXFileReference section */
 		1DDC46432AF9400200BA2E4F /* CoreHapticss.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CoreHapticss.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		1DDC46462AF9400200BA2E4F /* CoreHapticssApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoreHapticssApp.swift; sourceTree = "<group>"; };
-		1DDC46482AF9400200BA2E4F /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		1DDC46482AF9400200BA2E4F /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
 		1DDC464A2AF9400300BA2E4F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		1DDC464D2AF9400300BA2E4F /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -52,7 +52,7 @@
 			isa = PBXGroup;
 			children = (
 				1DDC46462AF9400200BA2E4F /* CoreHapticssApp.swift */,
-				1DDC46482AF9400200BA2E4F /* ContentView.swift */,
+				1DDC46482AF9400200BA2E4F /* HomeView.swift */,
 				1DDC464A2AF9400300BA2E4F /* Assets.xcassets */,
 				1DDC464C2AF9400300BA2E4F /* Preview Content */,
 			);
@@ -137,7 +137,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				1DDC46492AF9400200BA2E4F /* ContentView.swift in Sources */,
+				1DDC46492AF9400200BA2E4F /* HomeView.swift in Sources */,
 				1DDC46472AF9400200BA2E4F /* CoreHapticssApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
